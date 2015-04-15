@@ -1,0 +1,27 @@
+
+
+Version:	3.4
+CmdLine:	D:\Workspace Netbean\Pustaka\src\resources\pustaka.exe --l4j-debug
+WOW64:		no
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.6
+Ignore:		1.6
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.6.0_22
+Check launcher:	C:\Program Files\Java\jre6\bin\javaw.exe (OK)
+Match:		1.6.0_22
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.7
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7.0_17
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.7.0_17
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.6
+Ignore:		1.6
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.6.0_12
+Ignore:		1.6.0_12
+Runtime used:	1.7.0_17 (32-bit)
+Launcher:	C:\Program Files\Java\jre7\bin\javaw.exe
+Launcher args:	-jar "D:\Workspace Netbean\Pustaka\src\resources\pustaka.exe"
+Args length:	61/32768 chars
+Exit code:	0
